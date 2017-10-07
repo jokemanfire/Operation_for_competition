@@ -1,1 +1,1 @@
-该运行环境为windows7
+for windows 7
